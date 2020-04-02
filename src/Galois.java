@@ -1,6 +1,7 @@
 
 public class Galois {
-        static private int[] logTable = new int[] { -1,    0,    1,   25,    2,   50,   26,  198, 3,  223,   51,  238,
+        // maps integer logarithms to members of the field.
+        static private int[] logTable = new int[] { 512,    0,    1,   25,    2,   50,   26,  198, 3,  223,   51,  238,
                                                     27,  104,  199,   75, 4,  100,  224,   14,   52,  141,  239,  129,
                                                     28,  193,  105,  248,  200,    8,   76,  113, 5,  138,  101,   47,
                                                     225,   36,   15,   33, 53,  147,  142,  218,  240,   18,  130,   69,
@@ -23,8 +24,7 @@ public class Galois {
                                                     79,  174,  213,  233,  230,  231,  173,  232, 116,  214,  244,  234,
                                                     168,   80,   88,  175   };
 
-        // maps integer logarithms to members of the field.
-
+        // maps integer exponentials to members of the field.
         static int [] EXP_TABLE = new int [] {  1, 2, 4, 8, 16, 32, 64, -128, 29, 58, 116, -24, -51, -121, 19, 38, 76,
                                                 -104, 45, 90, -76, 117, -22, -55, -113, 3, 6, 12, 24, 48, 96, -64, -99,
                                                 39, 78, -100, 37, 74, -108, 53, 106, -44, -75, 119, -18, -63, -97, 35,

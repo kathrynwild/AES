@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f334b4fa-8ef4-4f57-884d-09152e618222" name="Default Changelist" comment="" />
+    <list default="true" id="f334b4fa-8ef4-4f57-884d-09152e618222" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cryptography_midterm1/Encryption.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cryptography_midterm1/Encryption.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cryptography_midterm1/Galois.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cryptography_midterm1/Galois.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Encryption.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Encryption.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Galois.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Galois.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +22,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YfrLIt13tgSHpm7jYRfKEBIxxn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -59,11 +71,22 @@
       <updated>1583344432671</updated>
       <workItem from="1583344434169" duration="113000" />
       <workItem from="1583434806385" duration="2126000" />
-      <workItem from="1583859572567" duration="54757000" />
+      <workItem from="1583859572567" duration="55369000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

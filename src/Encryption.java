@@ -182,9 +182,6 @@ public class Encryption {
 
     // this method mixes each column of the state matrix
     private void mixColumns() {
-        // https://engineering.purdue.edu/kak/compsec/NewLectures/Lecture8.pdf
-        // https://www.geeksforgeeks.org/bitwise-operators-in-java/
-
         // constants is the matrix from book (pg 105) to get the C matrix
         int[] constants = { 2, 3, 1, 1,
                             1, 2, 3, 1,
